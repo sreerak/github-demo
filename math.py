@@ -8,4 +8,4 @@ def multiply(x,y):
     pass
     
 def devide(x,y):
-    pass
+    return x/y
