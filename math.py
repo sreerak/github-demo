@@ -8,4 +8,11 @@ def multiply(x,y):
     pass
     
 def devide(x,y):
-    return x/y
+
+    
+
+    if y==0:
+        return DEVIDE_BY_O
+    else:
+        return x/y
+
